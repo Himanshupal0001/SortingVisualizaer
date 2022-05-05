@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    overflow: hidden;
+    height: 100vh;
+}
+
+.array-bar {
+    background-color: pink;
+    width: 2px;
+    margin: 0 2px;
+    position: relative;
+
+}
+
+button {
+    width: 150px;
+    display: inline-block;
+    position: relative;
+    top: -20vh;
+    left: 30%;
+    margin: 2px;
+}
