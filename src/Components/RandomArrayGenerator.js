@@ -4,7 +4,7 @@ import { useState } from 'react'
 import quickSortHelper from '../algorithms/quickSortHelper';
 import mergeSortHelper from '../algorithms/mergeSortHelper';
 
-export default function RandomArrayGenrator() {
+export default function RandomArrayGenerator() {
 
     const [array, setArray] = useState([]);
 

@@ -1,11 +1,11 @@
 
 import './App.css';
-import RandomArrayGenrator from './Components/RandomArrayGenrator';
+import RandomArrayGenerator from './Components/RandomArrayGenerator';
 
 function App() {
   return (
     <>
-      <RandomArrayGenrator />
+      <RandomArrayGenerator />
     </>
   );
 }
