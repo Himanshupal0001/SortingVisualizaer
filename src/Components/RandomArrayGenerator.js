@@ -1,10 +1,10 @@
 import React from 'react'
 import { useEffect } from 'react';
 import { useState } from 'react'
-import quickSortHelper from '../algorithems/quickSortHelper';
-import mergeSortHelper from '../algorithems/mergeSortHelper';
+import quickSortHelper from '../algorithms/quickSortHelper';
+import mergeSortHelper from '../algorithms/mergeSortHelper';
 
-export default function RandomArrayGenrator() {
+export default function RandomArrayGenerator() {
 
     const [array, setArray] = useState([]);
 
